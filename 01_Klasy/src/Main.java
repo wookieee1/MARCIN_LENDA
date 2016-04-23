@@ -56,7 +56,9 @@ public class Main {
 		System.out.println(adam);
 		System.out.println(ewa);
 		
-		
+		//komentarz
+		Osoba oGit = new Osoba();
+		System.out.println(oGit);
 	}
 
 }
